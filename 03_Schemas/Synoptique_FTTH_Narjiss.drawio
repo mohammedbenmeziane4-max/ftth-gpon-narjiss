@@ -1,0 +1,59 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="ke9VUjk0pPrI1-21nKTS">
+    <mxGraphModel dx="774" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Y_2-ooT6lyWYPWcMqh5V-6" edge="1" parent="1" source="Y_2-ooT6lyWYPWcMqh5V-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;fontFamily=Helvetica;fillColor=#f8cecc;strokeColor=#b85450;" target="Y_2-ooT6lyWYPWcMqh5V-2" value="Transport : 1 623 m">
+          <mxGeometry relative="1" y="50" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y_2-ooT6lyWYPWcMqh5V-1" parent="1" style="whiteSpace=wrap;html=1;" value="&#xa;NRO : OLT, 8 ports PON, +1,5 dBm&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="120" x="130" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Y_2-ooT6lyWYPWcMqh5V-7" edge="1" parent="1" source="Y_2-ooT6lyWYPWcMqh5V-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;fillColor=#dae8fc;strokeColor=#6c8ebf;" target="Y_2-ooT6lyWYPWcMqh5V-3" value="Distribution : 29 à 107 m">
+          <mxGeometry relative="1" y="50" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y_2-ooT6lyWYPWcMqh5V-2" parent="1" style="whiteSpace=wrap;html=1;" value="&#xa;Armoire PM : 8 splitters 1:8&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Y_2-ooT6lyWYPWcMqh5V-8" edge="1" parent="1" source="Y_2-ooT6lyWYPWcMqh5V-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;fillColor=#d5e8d4;strokeColor=#82b366;" target="Y_2-ooT6lyWYPWcMqh5V-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y_2-ooT6lyWYPWcMqh5V-3" parent="1" style="whiteSpace=wrap;html=1;" value="&#xa;PBO : 63 splitters 1:8&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="120" x="550" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Y_2-ooT6lyWYPWcMqh5V-12" edge="1" parent="1" source="Y_2-ooT6lyWYPWcMqh5V-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="Y_2-ooT6lyWYPWcMqh5V-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y_2-ooT6lyWYPWcMqh5V-4" parent="1" style="whiteSpace=wrap;html=1;" value="&#xa;PTO : prise optique du logement&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="120" x="550" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Y_2-ooT6lyWYPWcMqh5V-5" parent="1" style="whiteSpace=wrap;html=1;" value="&#xa;ONT : 397 logements, −25,7 dBm reçus&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Y_2-ooT6lyWYPWcMqh5V-11" parent="1" style="text;whiteSpace=wrap;html=1;" value="Branchement : 50 m" vertex="1">
+          <mxGeometry height="40" width="60" x="620" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Y_2-ooT6lyWYPWcMqh5V-15" parent="1" style="text;whiteSpace=wrap;html=1;" value="Cordon optique" vertex="1">
+          <mxGeometry height="40" width="120" x="370" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="Y_2-ooT6lyWYPWcMqh5V-16" parent="1" style="text;whiteSpace=wrap;html=1;" value="−10,5 dB" vertex="1">
+          <mxGeometry height="40" width="80" x="370" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Y_2-ooT6lyWYPWcMqh5V-17" parent="1" style="text;whiteSpace=wrap;html=1;" value="−10,5 dB" vertex="1">
+          <mxGeometry height="40" width="80" x="540" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Y_2-ooT6lyWYPWcMqh5V-19" parent="1" style="text;whiteSpace=wrap;html=1;" value="Pertes totales : 27,2 dB (budget GPON B+ : 28 dB)" vertex="1">
+          <mxGeometry height="40" width="300" x="280" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="Y_2-ooT6lyWYPWcMqh5V-20" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;code dir=&quot;ltr&quot;&gt;Synoptique du réseau FTTH GPON, quartier Narjiss (Fès)&lt;/code&gt;." vertex="1">
+          <mxGeometry height="40" width="390" x="210" y="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
